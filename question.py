@@ -136,3 +136,8 @@
 # result = [i for i in range(len(list)) if list[i] == element]
 # print('Indices of the element',element,"are:",result)
 
+
+# TODO: 10. Write a python script to sort a list.
+ListOne = [100,180,10,20,50,60,80,90,120,155,132,166]
+ListOne.sort()
+print(ListOne)
